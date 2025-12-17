@@ -57,11 +57,11 @@ CIRCUIT DIAGRAM:
 
 LINE REGULATION:
 
-<img width="470" height="260" alt="image" src="https://github.com/user-attachments/assets/c6168535-71b1-494d-8374-7f1de2270320" />
+ <img width="470" height="260" alt="image" src="https://github.com/user-attachments/assets/c6168535-71b1-494d-8374-7f1de2270320" />
 
 LOAD REGULATION:
 
-<img width="472" height="233" alt="image" src="https://github.com/user-attachments/assets/cc7485eb-1728-411b-9b23-c7398d58e681" />
+ <img width="472" height="233" alt="image" src="https://github.com/user-attachments/assets/cc7485eb-1728-411b-9b23-c7398d58e681" />
 
 PRECAUTIONS:
 
